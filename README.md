@@ -18,7 +18,7 @@ The project displays three subscription plans â€” Free, Standard, and Premium â€
 - Flexbox (for layout alignment)
 
 ## How to View 
-You can access my portfolio website by visiting this [link] 
+You can access my portfolio website by visiting this https://padmini1405.github.io/simple_subscription_today/
 Feel free to explore the content and get in touch.
 
 
